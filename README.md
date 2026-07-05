@@ -1,7 +1,7 @@
 ## Oi, sou o Gustavo Ferreira
 
-👨🏾‍🎓 Tecnólogo em **Redes de Computadores**  
-👨🏾‍💻 Expandindo meu conhecimento em **Análise e Desenvolvimento de Sistemas (ADS)**  
+👨🏾‍🎓 Tecnólogo em **Redes de Computadores** pela Unibratec  
+👨🏾‍💻 Expandindo meu conhecimento no curso **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio  
 🇧🇷 Recife, PE, Brasil  
 
 ---
